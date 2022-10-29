@@ -1,0 +1,3 @@
+## My remoute repositiry tutorial 
+
+* *git push* - пушим на удаленый репозиторий
