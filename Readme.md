@@ -1,5 +1,5 @@
-## My remoute repository tutorial
-=======
-## My remoute repositiry tutorial 
+# GBSeminar3
+
+* *git pull* - получаем изменения из удаленого репозитория
 
 * *git push* - пушим на удаленый репозиторий
